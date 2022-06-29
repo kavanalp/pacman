@@ -1,9 +1,5 @@
 # pacman
 
-AI final report by Kavan Alipanahi 
-
-You can check my code by clicking this link
-
 1. Introduction
 
 In the Reinforcement learning world, the purpose is to build a pipeline in which machines or agents are able to learn how to act in different circumstances to get the greatest results they can.
